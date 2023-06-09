@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item android:id="@+id/look_maps"
+            android:title="@string/maps"
+            android:icon = "@drawable/baseline_map"
+            app:showAsAction="always" />
+        <item android:id="@+id/add_iyagi"
+            android:title="@string/name"
+            android:icon = "@drawable/baseline_add"
+            app:showAsAction="always" />
+        <item android:id="@+id/action_logout"
+            android:title="@string/logout"
+            android:icon = "@drawable/baseline_logout"
+            app:showAsAction="ifRoom" />
+    </group>
+</menu>

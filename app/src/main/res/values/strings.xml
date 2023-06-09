@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Nae Iyagi App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="title_signup_page">Complete your personal data!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Start keep and sharing your story now!</string>
+    <string name="message_register_page">Make an account now to share your story!</string>
+    <string name="title_login_page">Hello! Welcome to Nae Iyagi!</string>
+    <string name="name">Name</string>
+    <string name="to_register">Create a new account!</string>
+    <string name="to_login">Already have an account?</string>
+    <string name="logout">Log Out</string>
+    <string name="password_min_char">Password can\'t be less than 8 characters</string>
+    <string name="add">Add Story</string>
+    <string name="description_detail">Write a description</string>
+    <string name="description_hint">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="retry">Try Again!</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_detail">Detail Story</string>
+    <string name="title_activity_add">Add Your Story</string>
+</resources>
